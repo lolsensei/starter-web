@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Luke Olsen  luke.olsen@cengage.com  @TheLukeOlsen
 
 # THANKS
 
